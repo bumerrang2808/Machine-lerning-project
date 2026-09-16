@@ -1,0 +1,6 @@
+testi.ipynb
+
+__pycache__/
+.cache/
+cache/
+.ipynb_checkpoints/
